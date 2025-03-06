@@ -1,3 +1,6 @@
+Data from:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+
 Essential Components to Keep
 
 Basic EDA (1 week)
